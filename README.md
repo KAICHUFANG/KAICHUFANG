@@ -28,7 +28,7 @@
 
 | 项目 | 说明 |
 |---|---|
-| [车牌识别系统](https://github.com/KAICHUFANG/license-plate-recognition) | OpenCV + Tesseract OCR，支持静态图片与实时视频流识别，PyQt5 图形界面 |
+| [基于改进蚁群算法的配送路径优化](https://github.com/KAICHUFANG/aco-delivery-routing) | A* + Yen's K 最短路径 + 时间优化蚁群算法；16 节点 / 15 个红绿灯测试地图上最优配送时间降幅 14.6%，含 1006 行交互式地图编辑器 |
 | Agent 应用（开发中） | 敬请期待 |
 
 ## 联系我
