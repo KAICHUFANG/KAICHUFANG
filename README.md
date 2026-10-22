@@ -29,7 +29,7 @@
 | 项目 | 说明 |
 |---|---|
 | [基于改进蚁群算法的配送路径优化](https://github.com/KAICHUFANG/aco-delivery-routing) | A* + Yen's K 最短路径 + 时间优化蚁群算法；16 节点 / 15 个红绿灯测试地图上最优配送时间降幅 14.6%，含 1006 行交互式地图编辑器 |
-| Agent 应用（开发中） | 敬请期待 |
+| [山海科普客服助手](https://github.com/KAICHUFANG/yanxue-cs-copilot) | 研学私域客服内部工具：活动问答、群文案自动填充、缺口体检；代码路由 + Function Calling 混合架构，DeepSeek API + tkinter 界面 |（开发中）
 
 ## 联系我
 
